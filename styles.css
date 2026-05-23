@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f4f4f4;
+}
+
+header {
+    background: #0077cc;
+    color: white;
+    padding: 40px;
+}
+
+.contenido {
+    padding: 30px;
+}
+
+img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+footer {
+    background: #222;
+    color: white;
+    padding: 15px;
+    margin-top: 20px;
+}
